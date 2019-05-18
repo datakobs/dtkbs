@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="480px" viewBox="0 0 1440 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>09FCB13A-DB3A-4134-95C6-4982EABD88CE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="4.45737933%" y1="50%" x2="79.9307373%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#00A3DA" offset="0%"></stop>
+            <stop stop-color="#39AB80" offset="54.5138383%"></stop>
+            <stop stop-color="#00D04A" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1440,107.49206 L1440,303 L0,303 L0,129.929721 C91.4553182,13.2847591 172.955318,-10.8584814 244.5,57.5 C368.737039,176.204215 494,65.5 587.5,65.5 C681,65.5 741,147.5 826,133.5 C911,119.5 945.459782,-29.3429311 999,44.5 C1103.62144,188.7944 1250.62144,209.791753 1440,107.49206 Z" id="path-2"></path>
+        <filter x="-8.7%" y="-58.2%" width="117.4%" height="188.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="35" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1440,156.713624 L1440,343 L0,343 L0,217.121559 C140.239317,169.314187 243.194873,141.607001 308.866667,134 C417.182813,121.45335 590.185042,151.89315 662.827778,161 C1037.73333,208 1054.48889,-76 1140.36111,20 C1267.66167,162.314403 1367.5413,207.885611 1440,156.713624 Z" id="path-4"></path>
+        <filter x="-8.7%" y="-48.1%" width="117.4%" height="172.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="-40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="35" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="microm-Startseite" transform="translate(0.000000, -394.000000)">
+            <g id="Key-Visual">
+                <g id="wellen_mainstage" transform="translate(0.000000, 500.000000)">
+                    <g id="Combined-Shape" opacity="0.901041667">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Combined-Shape" opacity="0.695765399">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <path d="M1440,227.183973 L1440,373.171866 L0.0488599349,373.171866 C0.0325713392,373.149967 0.0162846935,373.128071 -2.28858002e-09,373.106176 L-2.84217094e-14,240.791778 C113.793815,268.065787 229.368156,146.360604 399.04886,220.211273 C592.04886,304.211273 828.04886,140.211273 1016.04886,204.211273 C1161.13696,253.602965 1302.454,261.260532 1440,227.183973 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

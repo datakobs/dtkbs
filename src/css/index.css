@@ -1,0 +1,163 @@
+.navbar {
+}
+
+.streifen {
+  left: -10%;
+  background: url(../images/microm_verlaufsstreifen.svg) no-repeat;
+  width: 120%;
+  height: 14px;
+  position: absolute;
+  bottom: -13px;
+  z-index: -1;
+  background-size: cover;
+}
+
+.navdesc {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 60px;
+  background: transparent url(../images/claim-welle.svg) no-repeat;
+  background-color: transparent !important;
+  position: relative;
+  background-position-x: 91%;
+  background-position: 90.7% 14px;
+  box-sizing: border-box;
+}
+
+.header1 {
+  background-repeat: no-repeat;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-image: url(../images/b1.png);
+  background-size: 100% 100%;
+  background-position: center center;
+  width: 100% !important;
+  height: 55rem !important;
+  opacity: 1;
+  visibility: inherit;
+  z-index: 20;
+}
+
+.grad {
+  width: 100% !important;
+  background-image: url(../images/bg_welle_content.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 170px;
+  padding-bottom: 100px;
+  margin-bottom: 0em;
+}
+
+.welt1 {
+  z-index: 5;
+}
+
+#particles-js canvas {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
+
+.process1 {
+  background-image: url(../images/OurProcess2.png);
+  height: 700px;
+  width: 800px;
+  background-size: contain;
+  background-position: absolute;
+  background-repeat: no-repeat;
+}
+
+.processback {
+  background-color: #f3f4fb !important;
+  padding-top: 100px;
+}
+
+.certificate img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+.certificate {
+}
+
+/* Disable grayscale on hover */
+.certificate img:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}
+
+.footer1 {
+  background-color: #7c60d5;
+}
+
+/*--------------
+Iq Pproject Info
+---------------*/
+.iq-project-info .media {
+  z-index: 2;
+  background: #ffffff;
+  padding: 15px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  position: relative;
+  top: 0;
+  -webkit-transition: all 0.5s ease-out 0s;
+  -moz-transition: all 0.5s ease-out 0s;
+  -ms-transition: all 0.5s ease-out 0s;
+  -o-transition: all 0.5s ease-out 0s;
+  transition: all 0.5s ease-out 0s;
+}
+
+.iq-project-info .media:hover {
+  box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0.5s ease-out 0s;
+  -moz-transition: all 0.5s ease-out 0s;
+  -ms-transition: all 0.5s ease-out 0s;
+  -o-transition: all 0.5s ease-out 0s;
+  transition: all 0.5s ease-out 0s;
+}
+
+.iq-project-info .media i {
+  font-size: 40px;
+  color: #ffffff;
+  float: right;
+  background: #7c60d5;
+  line-height: 60px;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 100%;
+}
+
+.iq-project-info .media span {
+  font-size: 18px;
+  font-weight: normal;
+  color: #868894;
+}
+
+.iq-project-info .media:hover h5 a,
+.iq-service-info .media:hover h5 a {
+  color: #33e2a0;
+}
+
+ul.iq-project-info {
+  margin-left: -20px;
+}
+
+ul.iq-project-info li {
+  margin-bottom: 15px;
+}
+
+ul.iq-project-info li:last-child {
+  margin-bottom: 0px;
+}
+
+h3.d-inline-block.iq-fw-8 {
+  z-index: 2;
+  position: relative;
+}

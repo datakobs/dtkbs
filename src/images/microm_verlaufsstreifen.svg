@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="14px" viewBox="0 0 1440 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>verlaufsstreifen</title>
+        <defs>
+        <linearGradient x1="4.45737933%" y1="50%" x2="79.9307373%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#053b5e" offset="0%"></stop>
+            <stop stop-color="#196b81" offset="54.5138383%"></stop>
+            <stop stop-color="#1f798b" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="microm-Startseite" transform="translate(0.000000, -756.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Key-Visual">
+                <g id="buehnenbild_startseite">
+                    <rect id="microm_verlaufsstreifen" x="0" y="756" width="1440" height="14"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
