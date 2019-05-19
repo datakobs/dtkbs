@@ -161,3 +161,262 @@ h3.d-inline-block.iq-fw-8 {
   z-index: 2;
   position: relative;
 }
+
+/*--------------------------------------------------------------
+                           Footer
+--------------------------------------------------------------*/
+footer {
+  position: relative;
+  background: #46c894;
+  background: rgba(117, 205, 111, 1);
+  background: -moz-linear-gradient(
+    left,
+    rgba(117, 205, 111, 1) 0%,
+    rgba(70, 200, 148, 1) 100%
+  );
+  background: -webkit-gradient(
+    left top,
+    right top,
+    color-stop(0%, rgba(117, 205, 111, 1)),
+    color-stop(100%, rgba(70, 200, 148, 1))
+  );
+  background: -webkit-linear-gradient(
+    left,
+    rgba(117, 205, 111, 1) 0%,
+    rgba(70, 200, 148, 1) 100%
+  );
+  background: -o-linear-gradient(
+    left,
+    rgba(117, 205, 111, 1) 0%,
+    rgba(70, 200, 148, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    left,
+    rgba(117, 205, 111, 1) 0%,
+    rgba(70, 200, 148, 1) 100%
+  );
+  background: linear-gradient(
+    to right,
+    rgba(117, 205, 111, 1) 0%,
+    rgba(70, 200, 148, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#75cd6f', endColorstr='#46c894', GradientType=1);
+}
+.copyright-ct {
+  padding: 10px 0;
+}
+.copyright-ct a {
+  color: #ffffff;
+}
+footer .footer-logo img {
+  height: 40px;
+}
+footer .social-icone ul {
+  margin-bottom: 0;
+}
+footer .social-icone ul li a {
+  font-size: 18px;
+  color: #ffffff;
+}
+footer .social-icone ul li {
+  padding-right: 20px;
+}
+footer .widget {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+footer .widget:before {
+  display: none;
+}
+footer #footer-menu {
+  float: right;
+  padding: 0;
+}
+footer #footer-menu li {
+  float: left;
+  display: inline-block;
+  margin-right: 30px;
+}
+footer #footer-menu li:last-child {
+  margin-right: 0;
+}
+footer #footer-menu li a {
+  color: #ffffff;
+  font-size: 18px;
+  padding: 0;
+  border: none;
+}
+footer #footer-menu li a:hover,
+footer #footer-menu li a:hover {
+  color: #333333;
+  text-decoration: none;
+}
+footer .widget ul.menu li a {
+  color: #ffffff;
+  font-size: 18px;
+  padding: 0;
+  border: none;
+}
+footer .widget ul.menu li a:hover,
+footer .social-icone ul li a:hover {
+  color: #333333;
+}
+footer .widget ul li a:before {
+  display: none;
+}
+footer .social-icone ul li:nth-last-child(1),
+footer .widget .menu li:last-child {
+  margin-right: 0;
+}
+.copyright {
+  color: #ffffff;
+}
+.copyright a {
+  color: #ffffff;
+}
+footer .footer-title {
+  color: #fff;
+}
+footer .footer-top {
+  padding-top: 60px;
+}
+
+/* Footer Two */
+footer.footer2 {
+  color: #fff;
+}
+footer.footer2 .widget {
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+footer.footer2 .footer-logo {
+  margin-bottom: 15px;
+}
+footer.footer2 .footer-title {
+  color: #fff;
+  margin-bottom: 15px;
+}
+footer.footer2 .widget .menu {
+  float: left;
+}
+footer.footer2 .widget .menu li {
+  width: 100%;
+}
+footer.footer2 .mc4wp-form p {
+  margin-bottom: 0;
+}
+footer.footer2 input[type="submit"] {
+  position: absolute;
+  right: 30px;
+  bottom: 0px;
+  background: #ffffff;
+  color: #46c894;
+  padding: 11px 40px;
+}
+footer.footer2 input[type="email"] {
+  border: 1px solid #ffffff;
+  background: none;
+  width: 80%;
+  height: 48px;
+}
+footer.footer2 ul.info-share.d-inline {
+  padding-left: 0;
+}
+footer.footer2 ul.info-share li {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0px 5px;
+}
+footer .info-share a {
+  display: block;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  font-size: 16px;
+  color: #46c894;
+  background: #ffffff;
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 50%;
+}
+footer.footer2 .info-share a:hover {
+  border: 1px solid #333333;
+  background: #333333;
+  color: #46c894;
+}
+footer.footer2 input[type="email"]::-webkit-input-placeholder {
+  color: #ffffff;
+}
+footer.footer2 input[type="email"]::-moz-placeholder {
+  color: #ffffff;
+}
+footer.footer2 input[type="email"]:-ms-input-placeholder {
+  color: #ffffff;
+}
+footer .widget {
+  margin-bottom: 45px;
+}
+footer .widget,
+footer .widget a,
+footer caption {
+  color: #ffffff;
+}
+footer .widget select {
+  border-color: #ffffff;
+}
+footer .widget .wp-caption-text {
+  color: #333333;
+}
+footer .widget ul li a {
+  color: #ffffff;
+  padding-left: 0;
+}
+footer .widget .menu li {
+  display: block;
+}
+footer .widget ul li a:hover {
+  color: #333333;
+}
+footer .widget .menu {
+  float: left;
+}
+footer .widget ul#recentcomments li a:before,
+footer .widget .rsswidget:before {
+  display: none;
+}
+footer .widget .footer-title {
+  margin-bottom: 15px;
+  padding-bottom: 0;
+  position: relative;
+  font-weight: 600;
+}
+footer .widget ul li .rsswidget {
+  padding-left: 0;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  display: block;
+}
+footer .widget ul li .rss-date {
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 100%;
+  margin: 5px 0;
+}
+footer .widget ul li cite {
+  font-weight: 600;
+  margin-top: 5px;
+  display: inline-block;
+  width: 100%;
+}
+footer .widget.widget_nav_menu ul li .sub-menu,
+footer .widget ul.menu li .sub-menu {
+  padding-left: 15px;
+}
+footer .widget .menu-testing-menu-container ul.menu li a {
+  font-size: 16px;
+}
