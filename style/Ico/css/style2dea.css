@@ -4470,7 +4470,7 @@ ul.progress-info {
 .nk-banner {
   display: block;
   width: 100%;
-  z-index: 5;
+  z-index: 0;
   position: relative;
 }
 .banner {
@@ -4558,7 +4558,7 @@ ul.progress-info {
 }
 .banner > .nk-block {
   position: relative;
-  z-index: 2;
+  z-index: 0;
 }
 .cpn {
   padding-top: 30px;
