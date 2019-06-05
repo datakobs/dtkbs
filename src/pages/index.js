@@ -554,6 +554,92 @@ const IndexPage = () => (
       </div>
     </section>
 
+    <section class="section-padding-0-0 relative clearfix">
+      <div class="container">
+        <div class="has-shadow agency-sec">
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 ">
+              <div class="services-block-four v2">
+                <div class="inner-box">
+                  <div class="icon-img-box">
+                    <img
+                      src="../../style/Cryptomania/img/features/f1.svg"
+                      alt=""
+                    />
+                  </div>
+                  <h2 className="display-4">Früher</h2>
+                  <div class="text">
+                    Lorem ipsum dolor sit amet, conse ctetur dolor adipisicing
+                    elit.
+                  </div>
+
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">All PHP Apps Supported</div>
+                  </div>
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">Innovative Control Panel</div>
+                  </div>
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">Unlimited Applications</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 ">
+              <div class="services-block-four v2">
+                <div class="inner-box">
+                  <div class="icon-img-box">
+                    <img
+                      src="../../style/Cryptomania/img/features/f2.svg"
+                      alt=""
+                    />
+                  </div>
+                  <h2 className="display-4">Heute</h2>
+                  <div class="text">
+                    Lorem ipsum dolor sit amet, conse ctetur dolor adipisicing
+                    elit.
+                  </div>
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">All PHP Apps Supported</div>
+                  </div>
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">Innovative Control Panel</div>
+                  </div>
+                  <div class="side-feature-list-item v2 ">
+                    <i
+                      class="fa fa-check check-mark-icon-font"
+                      aria-hidden="true"
+                    />
+                    <div class="foot-c-info">Unlimited Applications</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="section bg-light section-l section-document" id="documents">
       <div class="container">
         <div class="section-head text-center wide-auto">
